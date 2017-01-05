@@ -7,5 +7,3 @@ return [
 
     ]
 ];
-
-return array_dot($env);
