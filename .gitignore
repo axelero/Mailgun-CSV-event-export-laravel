@@ -6,3 +6,4 @@ composer.lock
 Thumbs.db
 app/storage/exports
 .env.php
+resources/samples/max-variables.json
