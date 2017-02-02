@@ -13,6 +13,7 @@
 
 $commands = [
     'ExportMailgunEvents',
+    'CsvMergeCommand',
 ];
 
 // register
